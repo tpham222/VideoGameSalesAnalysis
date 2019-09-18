@@ -9,7 +9,7 @@ a video game as selling more than 1 million units. The technical aspects of this
 The steps taken to complete this project are as follows:  
 
 1.) Data Cleaning and Wrangling - A dataset that came from a kaggle competition was loaded, cleaned, and filtered in order
-    to transform it into a state that could be analyzed  
+    to transform it into a state that could be analyzed.  
     
 2.) Data Visualizations and Storytelling - After cleaning the dataset, exploratory data analysis was performed in order to find potential
     avenues to explore. The EDA provided the foundation to create a story and visualizations from the data.  
