@@ -8,19 +8,23 @@ a video game as selling more than 1 million units. The technical aspects of this
 ## Steps 
 The steps taken to complete this project are as follows:  
 
-1.) Data Cleaning and Wrangling - A dataset that came from a kaggle competition was loaded, cleaned, and filtered in order
+1.) [Data Cleaning and Wrangling](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/1.%20Data%20Cleaning%20and%20Wrangling/Data%20Cleaning%20and%20Wrangling.ipynb) 
+- A dataset that came from a kaggle competition was loaded, cleaned, and filtered in order
     to transform it into a state that could be analyzed.  
     
-2.) Data Visualizations and Storytelling - After cleaning the dataset, exploratory data analysis was performed in order to find potential
+2.) [Data Visualizations and Storytelling](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/2.%20Data%20Visualizations%20and%20Storytelling/Data%20Story%20-%20Visualizations%20and%20EDA.ipynb)
+- After cleaning the dataset, exploratory data analysis was performed in order to find potential
     avenues to explore. The EDA provided the foundation to create a story and visualizations from the data.  
     
-3.) Statistical Inference - Using the results of the EDA, inferences and analysis were performed. Many hypothesis tests were ran and
+3.) [Statistical Inference](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/3.%20Statistical%20Inferences/Statistical%20Inference.ipynb) 
+- Using the results of the EDA, inferences and analysis were performed. Many hypothesis tests were ran and
     correlations were made.  
     
-4.) Machine Learning - Linear regression on multiples video games features was performed. Three different classification models was
+4.) [Machine Learning](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/4.%20Machine%20Learning/Machine%20Learning%20-%20In%20Depth%20Predictive%20Analysis.ipynb) 
+- Linear regression on multiples video games features was performed. Three different classification models was
     also tested on the dataset.  
 ## Results
-The results of this project are presented in both a pdf "Video Game Sales Report" and a slide deck presentation. Both of these contain many
+The results of this project are presented in both a pdf [Video Game Sales Report](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/Video%20Game%20Sales%20Report.pdf) and a [slide deck presentation](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/Video%20Game%20Sales%20Presentation.pptx). Both of these contain many
 visualizations as well in-depth analysis of the results. On top of the complete report, there is also a report for each step of this project
 which can be found in the "Previous Reports" directory. The jupyter notebook for each step goes into great detail explaining the code as 
 well as the technical steps taken to complete this project.
