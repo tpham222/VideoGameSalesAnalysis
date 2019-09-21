@@ -36,3 +36,5 @@ genre and accounted for about 20% of the video games in this dataset. It was als
 the amount of games a publisher produces and the total global sales of that publisher. The best machine learning classifier model
 for this dataset was the random forest. The random forest was able to predict a video game as having more than 1 million units sold globally
 with an accuracy of 79% and a precision of 73%. 
+## Author
+Thompson Pham
