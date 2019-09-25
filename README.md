@@ -33,7 +33,7 @@ It was seen that there was a statistically significant difference between averag
 This project focused on only the critic score. There was a linear correlation between a video game's critic score and the log of global
 sales. Of the 12 video game genres, shooters had the highest average global sales value. Action games seem to be the most popular video game
 genre and accounted for about 20% of the video games in this dataset. It was also seen that there was a strong linear correlation between
-the amount of games a publisher produces and the total global sales of that publisher. The best machine learning classifier model
+the amount of games a publisher produces and the total global sales of that publisher. This correlation produced a line that had an R<sup>2</sup> value of 69%. The best machine learning classifier model
 for this dataset was the random forest. The random forest was able to predict a video game as having more than 1 million units sold globally
 with an accuracy of 79% and a precision of 73%. 
 ## Author
