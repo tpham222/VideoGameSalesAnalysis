@@ -31,7 +31,7 @@ well as the technical steps taken to complete this project.
 ### Summary of results  
 It was seen that there was a statistically significant difference between average critic scores and average user scores.
 This project focused on only the critic score. There was a linear correlation between a video game's critic score and the log of global
-sales. Of the 12 video game genres, shooters had the highest average global sales value. Action games seem to be the most popular video game
+sales. Performing linear regression on critic score and log of global sales produced an R<sup>2</sup> value of 17%. The R<sup>2</sup> value was increased to 30% by introducing additional video game features to the linear regression. Of the 12 video game genres, shooters had the highest average global sales value. Action games seem to be the most popular video game
 genre and accounted for about 20% of the video games in this dataset. It was also seen that there was a strong linear correlation between
 the amount of games a publisher produces and the total global sales of that publisher. This correlation produced a line that had an R<sup>2</sup> value of 69%. The best machine learning classifier model
 for this dataset was the random forest. The random forest was able to predict a video game as having more than 1 million units sold globally
