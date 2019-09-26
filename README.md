@@ -21,7 +21,7 @@ The steps taken to complete this project are as follows:
     correlations were made.  
     
 4.) [Machine Learning](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/4.%20Machine%20Learning/Machine%20Learning%20-%20In%20Depth%20Predictive%20Analysis.ipynb) 
-- Linear regression on multiples video games features was performed. Three different classification models was
+- Linear regression on multiples video games features was performed. Three different classification models were
     also tested on the dataset.  
 ## Results
 The results of this project are presented in both a pdf [Video Game Sales Report](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/Video%20Game%20Sales%20Report.pdf) and a [slide deck presentation](https://github.com/tpham222/VideoGameSalesAnalysis/blob/master/Video%20Game%20Sales%20Presentation.pptx). Both of these contain many
